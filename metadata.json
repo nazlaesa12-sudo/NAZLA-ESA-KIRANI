@@ -1,0 +1,6 @@
+{
+  "name": "MV KIRANI - Sistem Angkutan Laut & Logistik Maritim",
+  "description": "Aplikasi bisnis angkutan laut MV KIRANI dengan multi-database (Supabase, Neon DB, Firebase), master data kapal & pelabuhan, transaksi manifest muatan, monitoring real-time dan analitik.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
